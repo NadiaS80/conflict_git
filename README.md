@@ -1,4 +1,6 @@
-# 5 items about me
+
+# 8 items about me
+
 
 1 - I love swimming
 2 - I wanna travelling in the nearest future a lot of times
@@ -10,3 +12,7 @@ Guided by gravitational forces, our journey continues within the curved fabric o
 
 4 - I don’t want to own things. I want to move through moments that feel alive.
 5 - My brain is a quantum superposition computer: simultaneously present, deep in a project, and somewhere on vacation in the Bahamas.
+
+6 - Actually crypto money is a future of real money - I believe in it
+7 - I'm constantly upgrading my brain, because evolution doesn't stop with biology.
+8 - Sometimes I talk to AI. It listens better than most humans.
